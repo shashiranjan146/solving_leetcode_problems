@@ -65,16 +65,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3903-smallest-stable-index-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
