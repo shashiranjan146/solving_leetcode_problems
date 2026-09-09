@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3871-count-commas-in-range-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
