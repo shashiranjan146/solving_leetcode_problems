@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0868-binary-gap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
