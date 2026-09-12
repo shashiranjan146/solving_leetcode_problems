@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
 | [3871-count-commas-in-range-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
