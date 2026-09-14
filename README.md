@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
