@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
 ## Prefix Sum
 |  |
@@ -106,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -127,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0064-minimum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
