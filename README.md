@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
@@ -135,9 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
