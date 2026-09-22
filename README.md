@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0868-binary-gap) |
 ## Dynamic Programming
 |  |
