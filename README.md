@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
