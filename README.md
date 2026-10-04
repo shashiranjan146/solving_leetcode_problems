@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0709-to-lower-case) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -133,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
@@ -181,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
