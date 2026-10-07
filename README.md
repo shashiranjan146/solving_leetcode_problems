@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0680-valid-palindrome-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0401-binary-watch) |
 ## Tree
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
 ## Bit Manipulation
 |  |
