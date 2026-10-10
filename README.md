@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
