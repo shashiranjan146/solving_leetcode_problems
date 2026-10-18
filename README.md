@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0503-next-greater-element-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3871-count-commas-in-range-ii) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0993-cousins-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -209,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -217,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
@@ -244,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
