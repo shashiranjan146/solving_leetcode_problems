@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
