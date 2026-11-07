@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0139-word-break) |
 | [0503-next-greater-element-ii](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1254-number-of-closed-islands) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
@@ -314,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
