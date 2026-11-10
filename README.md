@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0290-word-pattern) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/shashiranjan146/solving_leetcode_problems/tree/master/0678-valid-parenthesis-string) |
